@@ -27,7 +27,7 @@ return a * b;\
 ## languages
 language    | level
 -----------|:-------: 
-russian       |   native 
-english    |   intermediate 
+russian   |   native 
+english   |   intermediate 
 tatar     |   intermediate
-turkish      |   beginner
+turkish   |   beginner
